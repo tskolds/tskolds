@@ -4,6 +4,8 @@ Timothy Skolds is a mechanical engineering student at Colorado State University.
 
 In his free time, Timothy enjoys cycling, going to the gym, reading, listening to music, being outside, and learning new things. Currently, he is working on teaching himself Python to expand his knowledge of numerical computing and analysis in engineering.
 
+Timothy currently works at Incycle, a bike shop which is part of Specialized Owned Retail. Previously, he spent four years working for Home Depot, most recently as a Service Department Lead.
+
 
 
 <!---
