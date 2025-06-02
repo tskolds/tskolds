@@ -1,6 +1,4 @@
-# About Me
 
-I am a senior in mechanical engineering at Colorado State University. I will be graduating in May of 2025. My interests include rail, aerospace, and power.
 
 
 
